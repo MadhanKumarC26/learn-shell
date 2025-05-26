@@ -1,3 +1,4 @@
 # learn-shell
 helo
- welcomew 
+ welcome 
+ all the best for devops journey
